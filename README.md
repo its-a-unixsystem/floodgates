@@ -1,6 +1,6 @@
 # floodgates
 
-Calculate the water (gray) in between the gates with the hieght of each gate as input
+Calculate the water (gray) in between the gates with the height of each gate as input
 ![image](https://raw.githubusercontent.com/its-a-unixsystem/floodgates/main/Screenshot%20from%202022-08-16%2010-25-31.png)
 
 
